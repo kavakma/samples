@@ -1,0 +1,5 @@
+branchname,id,branchtype
+Test_Branch,L_000000001,['sensor', 'switch', 'wireless']
+Branch_1,L_000000002,['wireless']
+Branch_2,L_000000003,['switch', 'wireless']
+Branch_3,L_000000004,['switch', 'wireless']
